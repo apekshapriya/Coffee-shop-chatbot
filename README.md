@@ -12,8 +12,11 @@ Inplace of giving input as "hi" ,we need to give input as "in hi"
 eg:
 
 (cmd)in hi
+
 bot:he,we welcome you
+
 (cmd)in can I have coffee?
+
 bot: yeah
  
 Inorder to end a session and begin new test case ,we need to do control+z or control+d 
